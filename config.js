@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
      {
       name: "ivaneh",
-      password: "jmlitelavalink",
-      host: "46.202.82.164",
-      port:  1027,
+      password: "A-SCARLET-ROSE-AMONG-THORNS-ENVIED-BY-ALL",
+      host: "ipv4.digitalocean-sg.anantix.network",
+      port:  2333,
       secure: false
     }
   ]

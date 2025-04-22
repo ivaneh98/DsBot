@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
      {
       name: "ivaneh",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lava-v4.ajieblogs.eu.org",
-      port:  80,
+      password: "jmlitelavalink",
+      host: "46.202.82.164",
+      port:  1027,
       secure: false
     }
   ]

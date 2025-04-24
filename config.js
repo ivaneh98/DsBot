@@ -17,10 +17,31 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "ivaneh",
+      name: "node1",
       password: "youshallnotpass",
       host: "lavalink.jirayu.net",
       port:  13592,
+      secure: false
+    },
+    {
+      name: "node2",
+      password: "nextgencoders",
+      host: "lavalink.nextgencoders.xyz",
+      port:  80,
+      secure: false
+    },
+    {
+      name: "node3",
+      password: "NAIGLAVA-dash.techbyte.host",
+      host: "lavahatry4.techbyte.host",
+      port:  3000,
+      secure: false
+    },
+    {
+      name: "node4",
+      password: "yothisnodeishostedbymushroom0162",
+      host: "69.30.219.179",
+      port:  1038,
       secure: false
     }
   ]
